@@ -134,8 +134,8 @@
 <section class="section" id="gallery">
   <h2>Our Work</h2>
   <div class="gallery">
-    <img src="Rod Pic 1.jpg" alt="Work 1">
-    <img src="Rod pic 2.jpg" alt="Work 2">
+    <img src="doc/Rod Pic 1.jpg" alt="Work 1">
+    <img src="doc/Rod pic 2.jpg" alt="Work 2">
   </div>
 </section>
 
